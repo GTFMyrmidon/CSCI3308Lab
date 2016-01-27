@@ -1,2 +1,2 @@
-# CSCI3308Lab
-Lab 3 for CSCI 3308, Spring 2016
+Vincent Mahathirash
+Lab 3 - Version Control
